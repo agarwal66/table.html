@@ -1,0 +1,15 @@
+table, th, td{
+border: 1px solid blue;
+}
+.serial{
+    padding-right: 700px;
+    background-color: aqua;
+}
+.title{
+    padding-right: 10px;
+    background-color: turquoise;
+}
+.Remarks{
+    padding-right: 300px;
+    background-color: antiquewhite;
+}
